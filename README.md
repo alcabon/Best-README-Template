@@ -19,11 +19,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
-![Coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-![version](https://img.shields.io/badge/version-1.2.3-blue)
+![Coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen?style=flat-square)
+![version](https://img.shields.io/badge/version-1.2.3-blue?style=flat-square)
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
